@@ -1,0 +1,11 @@
+body{
+	background-image: url("bgi2.jpg");
+	padding-bottom: 20px;
+	border-width: 20px;
+	border-color: 5px black;
+}
+table{
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
